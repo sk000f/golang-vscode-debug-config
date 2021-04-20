@@ -1,7 +1,6 @@
 {
   "version": "0.2.0",
-  "configurations": [
-  {
+  "configurations": [{
         "name": "Launch",
         "type": "go",
         "request": "launch",
@@ -9,6 +8,5 @@
         "program": "${workspaceFolder}/cmd/web/main.go",
         "env": {},
         "args": []
-  }
-  ]
+  }]
 }
